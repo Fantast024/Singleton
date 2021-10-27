@@ -22,13 +22,11 @@ Alpha 1.0
 ---
 
 Скриншот рабочего окна приложения
-
-![image](https://user-images.githubusercontent.com/85519603/139129439-70973a30-b0f6-41b3-b76c-54063588731d.png)
+![image](https://user-images.githubusercontent.com/85519603/139129969-e0f96149-51f1-4629-bf5a-2207edabfee8.png)
 
 
 Скриншот после отрисовки картинки
-
-![image](https://user-images.githubusercontent.com/85519603/139129565-2b347ca8-73c2-4314-be0e-be20499b434c.png)
+![image](https://user-images.githubusercontent.com/85519603/139130080-692af57f-3659-40eb-bef6-18e3ba480c32.png)
 
 
 **Зависимости**
